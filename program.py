@@ -1,3 +1,6 @@
+#                                               BİSMİLLAHİRRAHMANİRRAHİM
+
+
 import vobject
 import glob
 
